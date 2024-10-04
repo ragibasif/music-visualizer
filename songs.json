@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Du Hast",
+    "src": "./music/Rammstein-DuHast.mp3",
+    "artist": "Rammstein"
+  },
+  {
+    "name": "Ich Will",
+    "src": "./music/Rammstein-IchWill.mp3",
+    "artist": "Rammstein"
+  },
+  {
+    "name": "Sonne",
+    "src": "./music/Rammstein-Sonne.mp3",
+    "artist": "Rammstein"
+  },
+  {
+    "name": "So Muss Sommer",
+    "src": "./music/NOA-SoMussSommer.mp3",
+    "artist": "NOA"
+  },
+  {
+    "name": "Mein Herz Brennt",
+    "src": "./music/Rammstein-MeinHerzBrennt.mp3",
+    "artist": "Rammstein"
+  },
+  {
+    "name": "Johnny Däpp",
+    "src": "./music/LorenzBüffel-JohnnyDäpp.mp3",
+    "artist": "Lorenz Büffel"
+  },
+  {
+    "name": "Elektrisches Gefühl",
+    "src": "./music/Juli-ElektrischesGefühl.mp3",
+    "artist": "Juli"
+  },
+  {
+    "name": "Lila Wolken",
+    "src": "./music/Marteria-Yasha-MissPlatnum-LilaWolken.mp3",
+    "artist": "Marteria, Yasha, MissPlatnum"
+  },
+  {
+    "name": "Lieblingsmensch",
+    "src": "./music/Namika-Lieblingsmensch.mp3",
+    "artist": "Namika"
+  },
+  {
+    "name": "Halt Dich an mir fest",
+    "src": "./music/Revolverheld-feat-MartaJandová-HaltDichanmirfest.mp3",
+    "artist": "Revolverheld-feat-MartaJandová"
+  }
+]

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Visualizer</title>
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="main-container">
+      <header>
+        <h1>Our Favorite German Songs</h1>
+        <img src="./img/Flag_of_Germany.svg" alt="" srcset="" />
+        <p>Contributions by: Ragib, Gigi, Juan</p>
+      </header>
+      <div id="player-container">
+        <div class="player">
+          <div class="playlist scrolling-container">
+            <ul id="playlist"></ul>
+          </div>
+        </div>
+        <div id="canvas-container">
+          <div class="canvas">
+            <canvas id="visualizer"></canvas>
+          </div>
+          <div class="controls">
+            <audio id="song"></audio>
+            <button id="previous">Prev</button>
+            <button id="play">Play</button>
+            <button id="next">Next</button>
+            <button id="mute">Mute</button>
+          </div>
+          <div id="scroll-bar-container">
+            <div id="scroll-bar"></div>
+          </div>
+          <div id="time">0:00</div>
+          <div id="duration">0:00</div>
+        </div>
+      </div>
+
+      <footer>
+        <div class="footer-links">
+          <a
+            href="https://www.linkedin.com/in/ragibasif/"
+            target="_blank"
+            class="liquid-button"
+          >
+            <span>LinkedIn</span>
+            <svg
+              class="liquid"
+              viewBox="10 10 30 10"
+              preserveAspectRatio="none"
+            >
+              <path
+                class="liquid-path"
+                d="M0,25 Q50,0 100,25 T200,25 V50 H0 Z"
+              />
+            </svg>
+          </a>
+          <a
+            href="https://github.com/ragibcs/german-music-visualizer"
+            target="_blank"
+            class="liquid-button"
+          >
+            <span>GitHub</span>
+            <svg
+              class="liquid"
+              viewBox="10 10 30 10"
+              preserveAspectRatio="none"
+            >
+              <path
+                class="liquid-path"
+                d="M0,25 Q50,0 100,25 T200,25 V50 H0 Z"
+              />
+            </svg>
+          </a>
+          <a
+            href="mailto:ragib.asif30@myhunter.cuny.edu"
+            target="_blank"
+            class="liquid-button"
+          >
+            <span>Email</span>
+            <svg
+              class="liquid"
+              viewBox="10 10 30 10"
+              preserveAspectRatio="none"
+            >
+              <path
+                class="liquid-path"
+                d="M0,25 Q50,0 100,25 T200,25 V50 H0 Z"
+              />
+            </svg>
+          </a>
+        </div>
+        <div class="footer-bottom">
+          <p>&copy; 2024 Ragib Asif. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>
