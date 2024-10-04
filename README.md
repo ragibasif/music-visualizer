@@ -5,7 +5,8 @@ intuitive controls for playing, pausing, and navigating through songs.
 The design is aesthetically pleasing, easy to navigate, and fully responsive
 across all devices.
 
-[Demo](https://ragibasif.github.io/music-visualizer/)
+<p>Check out the <a href="https://ragibasif.github.io/music-visualizer/" target="_blank" rel="noopener noreferrer">demo</a>.</p>
+
 
 ![App Screenshot](./img/audio-visualizer-screenshot.png)
 
