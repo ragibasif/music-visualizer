@@ -63,6 +63,7 @@ music-visualizer/
 
 ## Contributing
 
+0. Read the [DOCUMENTATION](DOCUMENTATION.md).
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-branch).
 3. Commit your changes (git commit -am 'Add new feature').
