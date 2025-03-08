@@ -5,11 +5,6 @@ intuitive controls for playing, pausing, and navigating through songs.
 The design is aesthetically pleasing, easy to navigate, and fully responsive
 across all devices.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1d927341-68b4-4465-939d-6f73c05c8bd3/deploy-status)](https://app.netlify.com/sites/deutschmusik/deploys)
-
-Check out the [demo](https://deutschmusik.netlify.app/).
-
-
 ![App Screenshot](./img/audio-visualizer-screenshot.png)
 
 ## Features
